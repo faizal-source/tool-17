@@ -41,7 +41,7 @@ def ressture():
    user = raw_input('║ID      : ')
    import getpass
    sandi = raw_input('║PW      : ')
-   if sandi == 'channel pajaoq' and user == 'subscribe':
+   if sandi == 'aenk' and user == 'maung':
       print '║LOGIN SUKSES\n╚═══════\x1b[1;91m▶'
       sys.exit
    else:
